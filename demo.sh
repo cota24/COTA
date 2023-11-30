@@ -1,0 +1,1 @@
+python main.py --dataset=beauty --train_dir=default
