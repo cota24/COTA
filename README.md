@@ -1,5 +1,6 @@
 # COTA
 This project is a PyTorch implementation of COTA which is submitted to the PAKDD 2024.
+We modified [SASRec implementation of pmixer](https://github.com/pmixer/SASRec.pytorch) and used it as backbone model for COTA.
 
 ## Prerequisties 
 The implementation is based on Python 3.8.18 and PyTorch 1.6.0
